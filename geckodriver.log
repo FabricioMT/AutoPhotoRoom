@@ -687,3 +687,886 @@ JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Cou
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 1661016533935	Marionette	INFO	Stopped listening on port 59277
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661792400715	geckodriver	INFO	Listening on 127.0.0.1:57336
+1661792404863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileCdPy8Q"
+1661792405897	Marionette	INFO	Marionette enabled
+1661792405900	Marionette	INFO	Listening on port 57348
+WebDriver BiDi listening on ws://localhost:57337
+Read port: 57348
+1661792406109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57337/devtools/browser/97b6d448-9555-41c9-b485-ce9f93213674
+1661792436104	Marionette	INFO	Stopped listening on port 57348
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664232713917	geckodriver	INFO	Listening on 127.0.0.1:57671
+1664232762335	geckodriver	INFO	Listening on 127.0.0.1:57700
+1664232766574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile0JDf9A"
+1664232766895	Marionette	INFO	Marionette enabled
+1664232766900	Marionette	INFO	Listening on port 57713
+WebDriver BiDi listening on ws://localhost:57701
+Read port: 57713
+1664232766979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57701/devtools/browser/6347d407-5d22-4b73-9903-54636e9feda6
+1664232778679	Marionette	INFO	Stopped listening on port 57713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664232886311	geckodriver	INFO	Listening on 127.0.0.1:57843
+1664232890522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileeYxBl2"
+1664232915424	geckodriver	INFO	Listening on 127.0.0.1:57892
+1664232919653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileXvqIRe"
+1664232920176	Marionette	INFO	Marionette enabled
+1664232920179	Marionette	INFO	Listening on port 57904
+WebDriver BiDi listening on ws://127.0.0.1:57893
+Read port: 57904
+1664232920325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57893/devtools/browser/9efe7889-63b2-43e7-9096-0e30782170ae
+1664232931381	Marionette	INFO	Stopped listening on port 57904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664232965853	geckodriver	INFO	Listening on 127.0.0.1:57958
+1664232970063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileuUK9kS"
+1664232970821	Marionette	INFO	Marionette enabled
+1664232970824	Marionette	INFO	Listening on port 57970
+Read port: 57970
+WebDriver BiDi listening on ws://127.0.0.1:57959
+1664232970894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57959/devtools/browser/f8485092-d26b-4aab-b855-c0d1432559b0
+1664233238938	Marionette	INFO	Stopped listening on port 57970
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664233413756	geckodriver	INFO	Listening on 127.0.0.1:58181
+1664233417952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58182" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileGWCJ8O"
+1664233418249	Marionette	INFO	Marionette enabled
+1664233418251	Marionette	INFO	Listening on port 58193
+Read port: 58193
+WebDriver BiDi listening on ws://127.0.0.1:58182
+1664233418305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58182/devtools/browser/769496f4-481b-4c11-931b-db2a094041e0
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.photoroom.com/_next/static/chunks/pages/%5B%5B...slug%5D%5D-aee60cbee3da3927.js, line 1: TypeError: e is undefined
+1664234178733	Marionette	INFO	Stopped listening on port 58193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664234219111	geckodriver	INFO	Listening on 127.0.0.1:58586
+1664234223379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileRPDwI4"
+1664234223676	Marionette	INFO	Marionette enabled
+1664234223680	Marionette	INFO	Listening on port 58598
+Read port: 58598
+WebDriver BiDi listening on ws://127.0.0.1:58587
+1664234223744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58587/devtools/browser/d27f3306-02ed-4a2a-bd45-5452b7419c33
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.photoroom.com/_next/static/chunks/pages/%5B%5B...slug%5D%5D-aee60cbee3da3927.js, line 1: TypeError: e is undefined
+1664235487788	Marionette	INFO	Stopped listening on port 58598
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664235521058	geckodriver	INFO	Listening on 127.0.0.1:58895
+1664235525242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile6vGjuZ"
+1664235525531	Marionette	INFO	Marionette enabled
+1664235525534	Marionette	INFO	Listening on port 58907
+WebDriver BiDi listening on ws://127.0.0.1:58896
+Read port: 58907
+1664235525713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58896/devtools/browser/aadcc456-5b04-4a2c-8bd0-0b19def3f3e1
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1664237472629	Marionette	INFO	Stopped listening on port 58907
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664242435747	geckodriver	INFO	Listening on 127.0.0.1:52339
+1664242440101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileZ5fMjo"
+1664242440475	Marionette	INFO	Marionette enabled
+1664242440478	Marionette	INFO	Listening on port 52353
+WebDriver BiDi listening on ws://127.0.0.1:52340
+Read port: 52353
+1664242440649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52340/devtools/browser/cbdedf33-52d6-44d3-af22-b046f2adda6a
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1664242983260	Marionette	INFO	Stopped listening on port 52353
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664243086156	geckodriver	INFO	Listening on 127.0.0.1:52536
+1664243090436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileNkF1qd"
+1664243090745	Marionette	INFO	Marionette enabled
+1664243090749	Marionette	INFO	Listening on port 52550
+Read port: 52550
+WebDriver BiDi listening on ws://127.0.0.1:52537
+1664243090804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52537/devtools/browser/4daa161a-ccc6-4ccb-8acd-6315dea5f49c
+1664243112626	Marionette	INFO	Stopped listening on port 52550
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664276938816	geckodriver	INFO	Listening on 127.0.0.1:51067
+1664276943070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofiler6hX9B"
+1664276943427	Marionette	INFO	Marionette enabled
+1664276943431	Marionette	INFO	Listening on port 51081
+WebDriver BiDi listening on ws://127.0.0.1:51068
+Read port: 51081
+1664276943649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51068/devtools/browser/6b84e87f-d7e0-4c62-85f0-5f06a3fb5b70
+1664276948440	Marionette	INFO	Stopped listening on port 51081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664276986677	geckodriver	INFO	Listening on 127.0.0.1:51177
+1664276990911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileRwUZnm"
+1664276991210	Marionette	INFO	Marionette enabled
+1664276991213	Marionette	INFO	Listening on port 51189
+Read port: 51189
+WebDriver BiDi listening on ws://127.0.0.1:51178
+1664276991266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51178/devtools/browser/e0e2fd01-363e-4c61-ac63-bbcade522279
+1664277210785	Marionette	INFO	Stopped listening on port 51189
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20380, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664277226171	geckodriver	INFO	Listening on 127.0.0.1:51290
+1664277230426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile8q3lZZ"
+1664277230731	Marionette	INFO	Marionette enabled
+1664277230734	Marionette	INFO	Listening on port 51306
+Read port: 51306
+WebDriver BiDi listening on ws://127.0.0.1:51291
+1664277230786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51291/devtools/browser/d6250ca0-50a2-47de-a9f8-10cd179f4b6c
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664277875643	Marionette	INFO	Stopped listening on port 51306
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664278040852	geckodriver	INFO	Listening on 127.0.0.1:58715
+1664278045139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileHp2IcH"
+1664278045429	Marionette	INFO	Marionette enabled
+1664278045432	Marionette	INFO	Listening on port 58729
+WebDriver BiDi listening on ws://127.0.0.1:58716
+Read port: 58729
+1664278045554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58716/devtools/browser/4d895a5e-d808-479d-a048-bd83146f9ed3
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileHp2IcH\thumbnails) because it does not exist
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664281119731	Marionette	INFO	Stopped listening on port 58729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664281310087	geckodriver	INFO	Listening on 127.0.0.1:52970
+1664281314495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilehBV8Ov"
+1664281314786	Marionette	INFO	Marionette enabled
+1664281314789	Marionette	INFO	Listening on port 52984
+Read port: 52984
+WebDriver BiDi listening on ws://127.0.0.1:52971
+1664281314847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52971/devtools/browser/c60a885f-5b9a-4b8e-8360-49060c66c17d
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilehBV8Ov\thumbnails) because it does not exist
+1664282072627	Marionette	INFO	Stopped listening on port 52984
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664282265584	geckodriver	INFO	Listening on 127.0.0.1:53209
+1664282269901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileng00ac"
+1664282270204	Marionette	INFO	Marionette enabled
+1664282270208	Marionette	INFO	Listening on port 53222
+Read port: 53222
+WebDriver BiDi listening on ws://127.0.0.1:53210
+1664282270276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53210/devtools/browser/163f7eca-7414-4bd6-94aa-726f2badd993
+1664282417123	Marionette	INFO	Stopped listening on port 53222
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668300616975	geckodriver	INFO	Listening on 127.0.0.1:51220
+1668300621763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilex4kCyO"
+1668300623183	Marionette	INFO	Marionette enabled
+1668300623187	Marionette	INFO	Listening on port 51232
+Read port: 51232
+WebDriver BiDi listening on ws://127.0.0.1:51221
+1668300623271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51221/devtools/browser/31d7b717-8230-4822-8a14-2e47d86c9e9e
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilex4kCyO\thumbnails) because it does not exist
+1668300683187	Marionette	INFO	Stopped listening on port 51232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668300685135	geckodriver	INFO	Listening on 127.0.0.1:51325
+1668300690143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilesP8QVu"
+1668300690480	Marionette	INFO	Marionette enabled
+1668300690483	Marionette	INFO	Listening on port 51339
+WebDriver BiDi listening on ws://127.0.0.1:51326
+Read port: 51339
+1668300690681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51326/devtools/browser/105e10d3-f8ee-4711-a208-7712b206af86
+1668300704600	Marionette	INFO	Stopped listening on port 51339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12512, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668300707100	geckodriver	INFO	Listening on 127.0.0.1:51396
+1668300711780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileE6Wpbz"
+1668300712093	Marionette	INFO	Marionette enabled
+1668300712097	Marionette	INFO	Listening on port 51409
+Read port: 51409
+WebDriver BiDi listening on ws://127.0.0.1:51397
+1668300712151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51397/devtools/browser/86fdf572-20a9-4be4-8bf7-bfaa1321dfd0
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileE6Wpbz\thumbnails) because it does not exist
+1668300784783	Marionette	INFO	Stopped listening on port 51409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileL2BCf0"
+1668300755689	Marionette	INFO	Marionette enabled
+1668300755692	Marionette	INFO	Listening on port 51494
+WebDriver BiDi listening on ws://127.0.0.1:51483
+Read port: 51494
+1668300755886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51483/devtools/browser/cd414a8b-a93e-4935-9f32-d7345ec18a70
+1668300778648	Marionette	INFO	Stopped listening on port 51494
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668300788889	geckodriver	INFO	Listening on 127.0.0.1:51560
+1668300793501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileh2lcqS"
+1668300793810	Marionette	INFO	Marionette enabled
+1668300793813	Marionette	INFO	Listening on port 51575
+Read port: 51575
+WebDriver BiDi listening on ws://127.0.0.1:51561
+1668300793877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51561/devtools/browser/2ee0b591-7065-4c4c-bdb8-bfe8d1e21ec2
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileh2lcqS\thumbnails) because it does not exist
+1668300828987	Marionette	INFO	Stopped listening on port 51575
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 26716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668300831981	geckodriver	INFO	Listening on 127.0.0.1:51649
+1668300836592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileP3pdWA"
+1668300836906	Marionette	INFO	Marionette enabled
+1668300836909	Marionette	INFO	Listening on port 51662
+Read port: 51662
+WebDriver BiDi listening on ws://127.0.0.1:51650
+1668300836963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51650/devtools/browser/138d3486-5dd2-4482-bb7e-6b628ca993ae
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileP3pdWA\thumbnails) because it does not exist
+1668300872565	Marionette	INFO	Stopped listening on port 51662
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668300874371	geckodriver	INFO	Listening on 127.0.0.1:51728
+1668300884542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileKZbTPq"
+1668300884958	Marionette	INFO	Marionette enabled
+1668300884962	Marionette	INFO	Listening on port 51742
+WebDriver BiDi listening on ws://127.0.0.1:51729
+Read port: 51742
+1668300886506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51729/devtools/browser/ffa1a552-0026-4fec-8f6a-153107a6ec28
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileKZbTPq\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668303249928	Marionette	INFO	Stopped listening on port 51742
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668303251286	geckodriver	INFO	Listening on 127.0.0.1:52345
+1668303256103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile7IGJHM"
+1668303256416	Marionette	INFO	Marionette enabled
+1668303256420	Marionette	INFO	Listening on port 52357
+Read port: 52357
+WebDriver BiDi listening on ws://127.0.0.1:52346
+1668303256485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52346/devtools/browser/4b7263ec-8d57-427c-9f12-87d21c477ee9
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile7IGJHM\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668305591433	Marionette	INFO	Stopped listening on port 52357
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668356041288	geckodriver	INFO	Listening on 127.0.0.1:51549
+1668356045855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile6URuyf"
+1668356047001	Marionette	INFO	Marionette enabled
+1668356047008	Marionette	INFO	Listening on port 51567
+WebDriver BiDi listening on ws://127.0.0.1:51550
+Read port: 51567
+1668356047240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51550/devtools/browser/789e1e53-0596-4870-b869-9be6ee79da4c
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile6URuyf\thumbnails) because it does not exist
+1668356145716	Marionette	INFO	Stopped listening on port 51567
+[Parent 22880, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22880, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668356147140	geckodriver	INFO	Listening on 127.0.0.1:51702
+1668356151674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilekMFXO3"
+1668356151974	Marionette	INFO	Marionette enabled
+1668356151977	Marionette	INFO	Listening on port 51720
+Read port: 51720
+WebDriver BiDi listening on ws://127.0.0.1:51703
+1668356152033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51703/devtools/browser/9d4fdb34-0c25-48d6-90ee-c8ecb2c4ade0
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilekMFXO3\thumbnails) because it does not exist
+1668356209096	Marionette	INFO	Stopped listening on port 51720
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 30772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668356232443	geckodriver	INFO	Listening on 127.0.0.1:51803
+1668356237019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilepa82M6"
+1668356237310	Marionette	INFO	Marionette enabled
+1668356237313	Marionette	INFO	Listening on port 51816
+WebDriver BiDi listening on ws://127.0.0.1:51804
+Read port: 51816
+1668356237371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51804/devtools/browser/6b2c6f6f-144e-4b55-9f91-c2584c10b6f9
+1668356243687	Marionette	INFO	Stopped listening on port 51816
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668356246284	geckodriver	INFO	Listening on 127.0.0.1:51873
+1668356250789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilehRmn6M"
+1668356251080	Marionette	INFO	Marionette enabled
+1668356251083	Marionette	INFO	Listening on port 51886
+Read port: 51886
+WebDriver BiDi listening on ws://127.0.0.1:51874
+1668356251139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51874/devtools/browser/0a18d1cf-b007-439c-a4ba-f4945ea8906c
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilehRmn6M\thumbnails) because it does not exist
+1668356666316	Marionette	INFO	Stopped listening on port 51886
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668356668332	geckodriver	INFO	Listening on 127.0.0.1:52056
+1668356673398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileR0CeMM"
+1668356673699	Marionette	INFO	Marionette enabled
+1668356673702	Marionette	INFO	Listening on port 52070
+Read port: 52070
+WebDriver BiDi listening on ws://127.0.0.1:52057
+1668356673767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52057/devtools/browser/b7898f7f-a802-4148-8754-63e3a2a5ccfc
+1668356680961	Marionette	INFO	Stopped listening on port 52070
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 25144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668356802176	geckodriver	INFO	Listening on 127.0.0.1:52275
+1668356806824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile7xMex4"
+1668356807123	Marionette	INFO	Marionette enabled
+1668356807126	Marionette	INFO	Listening on port 52289
+Read port: 52289
+WebDriver BiDi listening on ws://127.0.0.1:52276
+1668356807178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52276/devtools/browser/b92a1fdb-0564-489e-99eb-947702488cc6
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile7xMex4\thumbnails) because it does not exist
+1668356861623	Marionette	INFO	Stopped listening on port 52289
+[Parent 31240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 31240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 31240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668356864565	geckodriver	INFO	Listening on 127.0.0.1:52337
+1668356869153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilePWBUxC"
+1668356869457	Marionette	INFO	Marionette enabled
+1668356869461	Marionette	INFO	Listening on port 52352
+Read port: 52352
+WebDriver BiDi listening on ws://127.0.0.1:52338
+1668356869521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52338/devtools/browser/f753d361-dd89-47c5-8da0-b4d74e6b6f18
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilePWBUxC\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1668357698784	Marionette	INFO	Stopped listening on port 52352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670711897748	geckodriver	INFO	Listening on 127.0.0.1:64419
+1670711903820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileajm8Vi"
+1670711905327	Marionette	INFO	Marionette enabled
+1670711905332	Marionette	INFO	Listening on port 64432
+Read port: 64432
+WebDriver BiDi listening on ws://127.0.0.1:64420
+1670711905414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:64420/devtools/browser/76814d85-3553-4f06-9f18-33026e77e703
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670711921118	Marionette	INFO	Stopped listening on port 64432
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670711977468	geckodriver	INFO	Listening on 127.0.0.1:64597
+1670711983463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilexroaSx"
+1670711983802	Marionette	INFO	Marionette enabled
+1670711983805	Marionette	INFO	Listening on port 64609
+WebDriver BiDi listening on ws://127.0.0.1:64598
+Read port: 64609
+1670711983986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:64598/devtools/browser/e2b3fcc7-9d28-4f27-95ed-d4bb3934ee3f
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670711990248	Marionette	INFO	Stopped listening on port 64609
+[Parent 29072, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670712042009	geckodriver	INFO	Listening on 127.0.0.1:64859
+1670712047933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64860" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilePIiyXF"
+1670712048277	Marionette	INFO	Marionette enabled
+1670712048280	Marionette	INFO	Listening on port 64881
+WebDriver BiDi listening on ws://127.0.0.1:64860
+Read port: 64881
+1670712048456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:64860/devtools/browser/64db7b1c-2e72-4369-8e99-bc3894552bb7
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670712065550	Marionette	INFO	Stopped listening on port 64881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670712165801	geckodriver	INFO	Listening on 127.0.0.1:65110
+1670712171860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileiHqDhr"
+1670712172181	Marionette	INFO	Marionette enabled
+1670712172184	Marionette	INFO	Listening on port 65124
+Read port: 65124
+WebDriver BiDi listening on ws://127.0.0.1:65111
+1670712172240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:65111/devtools/browser/373e114a-5044-43d2-8adc-32516843531b
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670712257416	Marionette	INFO	Stopped listening on port 65124
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 27728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofileLhxxSC"
+1670712235624	Marionette	INFO	Marionette enabled
+1670712235629	Marionette	INFO	Listening on port 65192
+Read port: 65192
+WebDriver BiDi listening on ws://127.0.0.1:65177
+1670712235683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:65177/devtools/browser/e7f7a6f4-1596-49ca-bd42-a5f629e344f6
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670712253173	Marionette	INFO	Stopped listening on port 65192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 26548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670712447918	geckodriver	INFO	Listening on 127.0.0.1:65294
+1670712453956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileb3YGXn"
+1670712454266	Marionette	INFO	Marionette enabled
+1670712454269	Marionette	INFO	Listening on port 65308
+Read port: 65308
+WebDriver BiDi listening on ws://127.0.0.1:65295
+1670712454327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:65295/devtools/browser/7f6bdc64-a417-45b3-8fb8-3665c508c2bc
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670715085724	Marionette	INFO	Stopped listening on port 65308
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 30408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 30408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ng on ws://127.0.0.1:65365
+1670712505281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:65365/devtools/browser/bca9c9aa-7b44-4ef8-b948-d78b46c9e779
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670715059538	Marionette	INFO	Stopped listening on port 65379
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670715087128	geckodriver	INFO	Listening on 127.0.0.1:49789
+1670715093243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileX6LZun"
+1670715093560	Marionette	INFO	Marionette enabled
+1670715093563	Marionette	INFO	Listening on port 49803
+Read port: 49803
+WebDriver BiDi listening on ws://127.0.0.1:49790
+1670715093624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:49790/devtools/browser/4105b78c-d278-4677-9a01-38e0c95848a8
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670715266442	Marionette	INFO	Stopped listening on port 49803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670715275015	geckodriver	INFO	Listening on 127.0.0.1:49951
+1670715280957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileivtA4n"
+1670715281269	Marionette	INFO	Marionette enabled
+1670715281272	Marionette	INFO	Listening on port 49964
+Read port: 49964
+WebDriver BiDi listening on ws://127.0.0.1:49952
+1670715281327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:49952/devtools/browser/7a0899e6-d789-4016-a0de-620d2c0fbedf
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670715298576	Marionette	INFO	Stopped listening on port 49964
+[Parent 26712, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670715323647	geckodriver	INFO	Listening on 127.0.0.1:50072
+1670715329534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileBveBHh"
+1670715329871	Marionette	INFO	Marionette enabled
+1670715329873	Marionette	INFO	Listening on port 50084
+WebDriver BiDi listening on ws://127.0.0.1:50073
+Read port: 50084
+1670715330051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:50073/devtools/browser/d4072528-067a-45de-8b19-1f9d6ca32ce3
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670715780389	Marionette	INFO	Stopped listening on port 50084
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofilefCOjvk"
+1670715695567	Marionette	INFO	Marionette enabled
+1670715695571	Marionette	INFO	Listening on port 50398
+Read port: 50398
+WebDriver BiDi listening on ws://127.0.0.1:50387
+1670715695627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:50387/devtools/browser/60264f7a-e7ef-48f0-8642-18f95aaada5e
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670715770584	Marionette	INFO	Stopped listening on port 50398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 25940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670715787402	geckodriver	INFO	Listening on 127.0.0.1:50488
+1670715793371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileuVVmyb"
+1670715793681	Marionette	INFO	Marionette enabled
+1670715793684	Marionette	INFO	Listening on port 50503
+Read port: 50503
+WebDriver BiDi listening on ws://127.0.0.1:50489
+1670715793741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:50489/devtools/browser/dcbe3c0f-3d9d-4a87-b683-58542083d859
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670715813652	Marionette	INFO	Stopped listening on port 50503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670715818072	geckodriver	INFO	Listening on 127.0.0.1:50530
+1670715823976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile8rAV1C"
+1670715824287	Marionette	INFO	Marionette enabled
+1670715824290	Marionette	INFO	Listening on port 50543
+Read port: 50543
+WebDriver BiDi listening on ws://127.0.0.1:50531
+1670715824348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:50531/devtools/browser/df183177-40a3-4ef3-a2ad-3d9ada9ef9d3
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670716609433	Marionette	INFO	Stopped listening on port 50543
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670717165849	geckodriver	INFO	Listening on 127.0.0.1:51072
+1670717172070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileXSss1u"
+1670717172381	Marionette	INFO	Marionette enabled
+1670717172384	Marionette	INFO	Listening on port 51089
+Read port: 51089
+WebDriver BiDi listening on ws://127.0.0.1:51073
+1670717172443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:51073/devtools/browser/baad9505-b2b3-42bf-b04b-4f90a40e98fc
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670721202139	Marionette	INFO	Stopped listening on port 51081670721205343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilepn5LFd"
+1670721205890	Marionette	INFO	Marionette enabled
+1670721205894	Marionette	INFO	Listening on port 52548
+Read port: 52548
+WebDriver BiDi listening on ws://127.0.0.1:52531
+1670721205957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:52531/devtools/browser/8b1e94e5-d0b9-4d97-a507-e0e8bdb935ec
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+1670724537796	Marionette	INFO	Stopped listening on port 52548
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670724574962	geckodriver	INFO	Listening on 127.0.0.1:53702
+1670724581254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileeV5g0Q"
+1670724581578	Marionette	INFO	Marionette enabled
+1670724581582	Marionette	INFO	Listening on port 53717
+Read port: 53717
+WebDriver BiDi listening on ws://127.0.0.1:53703
+1670724581641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:53703/devtools/browser/1aed8b61-aaa5-4824-83e8-112d6152295c
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670725189833	Marionette	INFO	Stopped listening on port 53717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 31340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670732757745	geckodriver	INFO	Listening on 127.0.0.1:63034
+1670732763835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile8seMii"
+1670732765177	Marionette	INFO	Marionette enabled
+1670732765182	Marionette	INFO	Listening on port 63044
+WebDriver BiDi listening on ws://127.0.0.1:63035
+Read port: 63044
+1670732765429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:63035/devtools/browser/9acb6e99-8ffe-42aa-8546-17aac087aa8e
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670732889942	Marionette	INFO	Stopped listening on port 63041670732890085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilekEvj11"
+1670732890459	Marionette	INFO	Marionette enabled
+1670732890462	Marionette	INFO	Listening on port 63131
+WebDriver BiDi listening on ws://127.0.0.1:63120
+Read port: 63131
+1670732890655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:63120/devtools/browser/6b2a0e10-e468-4ad6-88bd-e4959ec4dee8
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670780186646	geckodriver	INFO	Listening on 127.0.0.1:64990
+1670780192657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilehLAIbn"
+1670780193990	Marionette	INFO	Marionette enabled
+1670780193996	Marionette	INFO	Listening on port 65003
+Read port: 65003
+WebDriver BiDi listening on ws://127.0.0.1:64991
+1670780194109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+DevTools listening on ws://127.0.0.1:64991/devtools/browser/9e7e967a-84e3-4243-8637-43e505f812fc
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670780196870	Marionette	INFO	Stopped listening on port 65003
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17032, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670780217201	geckodriver	INFO	Listening on 127.0.0.1:65074
+1670780223090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileahq5jA"
+1670780223380	Marionette	INFO	Marionette enabled
+1670780223383	Marionette	INFO	Listening on port 65086
+WebDriver BiDi listening on ws://127.0.0.1:65075
+Read port: 65086
+1670780223555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:65075/devtools/browser/cc2ba2a7-a164-466d-8254-289513456c06
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670781233552	Marionette	INFO	Stopped listening on port 65086
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670781270140	geckodriver	INFO	Listening on 127.0.0.1:65341
+1670781276114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileSVyLCy"
+1670781276425	Marionette	INFO	Marionette enabled
+1670781276428	Marionette	INFO	Listening on port 65351
+Read port: 65351
+WebDriver BiDi listening on ws://127.0.0.1:65342
+1670781276482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:65342/devtools/browser/e602d34a-d781-49e2-9199-2ac45153f9ef
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670785833702	Marionette	INFO	Stopped listening on port 65351670785838116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile1HhXZZ"
+1670785838408	Marionette	INFO	Marionette enabled
+1670785838411	Marionette	INFO	Listening on port 50407
+WebDriver BiDi listening on ws://127.0.0.1:50395
+Read port: 50407
+1670785838537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:50395/devtools/browser/2c048cb8-c383-45ac-bf25-c6c6d04c98ee
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670788624990	Marionette	INFO	Stopped listening on port 50407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile4t2WZ2"
+1670786341956	Marionette	INFO	Marionette enabled
+1670786341960	Marionette	INFO	Listening on port 50630
+Read port: 50630
+WebDriver BiDi listening on ws://127.0.0.1:50619
+1670786342019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:50619/devtools/browser/1150482e-c31d-4058-829b-61dcc49ea882
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 99
+[[Exception stack
+updatePageFrameStructure@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:99:20
+@moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/ext/background.js:202:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+fire@resource://gre/modules/ExtensionChild.jsm:832:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:836:13
+_recv@resource://gre/modules/ConduitsChild.jsm:82:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:188:20
+run@resource://gre/modules/ConduitsChild.jsm:179:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:180:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:180:31
+]]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 226: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670788624436	Marionette	INFO	Stopped listening on port 50630
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670795067891	geckodriver	INFO	Listening on 127.0.0.1:63518
+1670795074197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile1MZpUC"
+1670795074543	Marionette	INFO	Marionette enabled
+1670795074547	Marionette	INFO	Listening on port 63530
+WebDriver BiDi listening on ws://127.0.0.1:63519
+Read port: 63530
+1670795074724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:63519/devtools/browser/40eb9fd8-b364-4a9c-9be8-b50dbe9de9ed
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+1670797518909	Marionette	INFO	Stopped listening on port 63530
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670799800789	geckodriver	INFO	Listening on 127.0.0.1:53689
+1670799807251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileW09ycl"
+1670799807609	Marionette	INFO	Marionette enabled
+1670799807612	Marionette	INFO	Listening on port 53699
+WebDriver BiDi listening on ws://127.0.0.1:53690
+Read port: 53699
+1670799807814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+DevTools listening on ws://127.0.0.1:53690/devtools/browser/6ae4feed-1999-40b0-917d-4520a1da4347
+JavaScript warning: moz-extension://d669c81c-1ba3-41dc-8948-046f5fe6d030/background.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1670799821631	Marionette	INFO	Stopped listening on port 53699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
